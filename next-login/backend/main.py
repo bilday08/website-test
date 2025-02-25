@@ -1,7 +1,5 @@
 from fastapi import FastAPI, HTTPException, Depends
 import os
-import sys
-sys.path.append('/Users/hanhphan/Documents/website-test/next-login/backend')
 import schemas
 import security
 import database
@@ -12,6 +10,9 @@ from schemas import UserLogin
 from bson import ObjectId
 import stripe
 from datetime import datetime
+# Here is the hotfix I applied for the import error. Please adjust it to match the path on your machine.
+import sys
+sys.path.append('/Users/hanhphan/Documents/website-test/next-login/backend')
 
 app = FastAPI()
 
