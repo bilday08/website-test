@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Sunset Over the Sea",
+        "artist": "Le Thi C",
+        "price": 150.75,
+        "description": "A beautiful painting of a sunset by the sea.",
+        "imageUrl": "https://example.com/images/sunset-over-the-sea.jpg"
+    },
+    {
+        "title": "Mountain Landscape",
+        "artist": "Nguyen Thi D",
+        "price": 200.00,
+        "description": "A serene landscape painting of mountains.",
+        "imageUrl": "https://example.com/images/mountain-landscape.jpg"
+    },
+    {
+        "title": "Abstract Beauty",
+        "artist": "Pham Thi E",
+        "price": 120.50,
+        "description": "An abstract art piece with vibrant colors.",
+        "imageUrl": "https://example.com/images/abstract-beauty.jpg"
+    },
+    {
+        "title": "City Lights",
+        "artist": "Tran Thi F",
+        "price": 250.00,
+        "description": "A modern abstract painting of city lights at night.",
+        "imageUrl": "https://example.com/images/city-lights.jpg"
+    },
+    {
+        "title": "Nature's Calm",
+        "artist": "Nguyen Thi G",
+        "price": 180.30,
+        "description": "A calm and peaceful landscape representing the beauty of nature.",
+        "imageUrl": "https://example.com/images/natures-calm.jpg"
+    }
+]
